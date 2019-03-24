@@ -4,34 +4,34 @@
 ## ガオガエン関係
 - 掴み打撃可能回数
 
-|![](picture\ガオガエン掴み打撃.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/ガオガエン掴み打撃.png)|
 - 崖つかまり状態の敵にヒットするガオガエンの攻撃
 
-|![](picture\崖つかまり攻撃1.jpg)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/崖つかまり攻撃1.jpg)|
 
-|![](picture\崖つかまり攻撃2.jpg)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/崖つかまり攻撃2.jpg)|
 
-|![](picture\崖つかまり攻撃3.jpg)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/崖つかまり攻撃3.jpg)|
 
-|![](picture\崖つかまり攻撃4.jpg)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/崖つかまり攻撃4.jpg)|
 
 - リベンジ倍率
 
-|![](picture\リベンジ倍率.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/リベンジ倍率.png)|
 ```
 リベンジ倍率 = 1 + (0.25 + 0.075 * 敵攻撃判定の基礎ダメージ)
 ```
 
 - 下投げ上B復帰可能ライン
-|![](picture\上B復帰可能ライン.jpg)
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/上B復帰可能ライン.jpg)
 
 - リベンジ状態でのガード硬直差
 
-|![](picture\リベンジ状態のガード硬直差1.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/リベンジ状態のガード硬直差1.png)|
 
-|![](picture\リベンジ状態のガード硬直差2.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/リベンジ状態のガード硬直差2.png)|
 
-|![](picture\リベンジ状態のガード硬直差3.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/リベンジ状態のガード硬直差3.png)|
 
 ***※NBのN段目の全体フレームをN+1段目の発生フレームとして計算***
 ```
@@ -48,18 +48,18 @@
 ## システム関係
 - 着地隙が少ない攻撃、ガード硬直差
 
-|![](picture\ガード硬直差1.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/ガード硬直差1.png)|
 
-|![](picture\ガード硬直差2.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/ガード硬直差2.png)|
 
-|![](picture\ガード硬直差3.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/ガード硬直差3.png)|
 
-|![](picture\ガード硬直差4.png)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/ガード硬直差4.png)|
 
 
 - 崖つかまり時の無敵時間
 
-|![](picture\崖つかまり.jpg)|
+|![](https://raw.githubusercontent.com/fujarenpaw/ssbuInfomation/master/picture/崖つかまり.jpg)|
 ```
 無敵時間 = INT((滞空時間 * 0.2 ＋ 44) - (蓄積% * 44 / 120))　[F]
 　4 ≤ 無敵時間 ≤ 104 [F]
