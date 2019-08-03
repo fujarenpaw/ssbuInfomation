@@ -1,0 +1,301 @@
+,0,1,2,3
+0,Bang,Flame Slash,Kacrackle Slash,Psyche Up
+1,Bounce,Snooze,Kaboom,Oomph
+2,Kacrackle Slash,Bang,acceleratle,Sizzle
+3,Zoom,Whack,Snooze,Flame slash
+4,Thwack,Acceleratle,Heal,Sizz
+5,Hatchet Man,Whack,Psyche Up,Hocus Pocus
+6,Acceleratle,Sizzle,Snooze,Heal
+7,Thwack,Sizz,Kaboom,Flame slash
+8,Kamikazee,Oomph,kacrackle slash,Hatchet Man
+9,Sizzle,Flame Slash,Zoom,Thwack
+10,Kacrackle Slash,Hatchet Man,Psyche Up,Whack
+11,Zoom,Magic Burst,Kamikazee,Sizzle
+12,Kaboom,Flame Slash,Hocus Pocus,Hatchet Man
+13,Bang,Acceleratle,Zoom,Kacrackle Slash
+14,magic burst,Flame Slash,metal slash,Snooze
+15,Kaboom,Hocus Pocus,Psyche Up,Oomph
+16,Flame Slash,Bang,Thwack,Kacrackle Slash
+17,Hatchet Man,Whack,Acceleratle,Kaboom
+18,Psyche Up,Bang,Zoom,kamikazee
+19,Sizz,Acceleratle,Oomph,Hatchet Man
+20,Whack,Sizzle,Bang,Zoom
+21,Kaclang,Psyche Up,Hatchet Man,Bounce
+22,acceleratle,Sizz,Oomph,Heal
+23,Sizzle,Kaboom,Snooze,Kacrackle Slash
+24,Psyche Up,Flame Slash,kaclang,Hatchet Man
+25,Kaboom,Sizz,Bounce,kamikazee
+26,acceleratle,Psyche Up,Sizzle,Flame Slash
+27,Thwack,Kacrackle Slash,Oomph,Heal
+28,Sizzle,Flame Slash,Acceleratle,metal slash
+29,sizz,zoom,Hatchet Man,Bang
+30,metal slash,Thwack,Flame Slash,Kaboom
+31,Kaclang,Bounce,Magic Burst,Acceleratle
+32,Zoom,Kacrackle Slash,Thwack,Psyche Up
+33,Bounce,Oomph,Heal,kamikazee
+34,Kacrackle Slash,Sizzle,Acceleratle,Zoom
+35,Flame Slash,Snooze,Thwack,Bang
+36,Zoom,Kacrackle Slash,Kaboom,Hatchet Man
+37,Snooze,Sizz,Whack,metal slash
+38,Bang,Magic Burst,Sizzle,Flame Slash
+39,Kaboom,Whack,Sizz,Snooze
+40,Bounce,Zoom,metal slash,Sizzle
+41,Sizz,Bang,Psyche Up,Acceleratle
+42,Hatchet Man,Kaboom,Zoom,Kacrackle Slash
+43,Sizzle,Oomph,Snooze,Psyche Up
+44,Zoom,Acceleratle,Flame Slash,Thwack
+45,Bang,Snooze,Kacrackle Slash,Psyche Up
+46,Oomph,Bounce,Zoom,Kaclang
+47,Kacrackle Slash,Kaboom,Thwack,Acceleratle
+48,Whack,Sizzle,Hocus Pocus,metal slash
+49,Hatchet Man,Flame Slash,Kaboom,Kamikazee
+50,Bang,Acceleratle,Bounce,Oomph
+51,Heal,Zoom,Hatchet Man,Kaboom
+52,Thwack,Snooze,Sizz,Kacrackle Slash
+53,Acceleratle,Psyche Up,Bang,Sizzle
+54,kaclang,Zoom,Flame slash,Hatchet Man
+55,Sizzle,Kacrackle Slash,Psyche Up,Oomph
+56,Bounce,Thwack,Sizz,Flame Slash
+57,Kaboom,Snooze,Whack,Oomph
+58,Bounce,Bang,Hocus Pocus,Sizzle
+59,Zoom,Hatchet Man,kaclang,Oomph
+60,Bang,Flame Slash,acceleratle,Psyche Up
+61,Oomph,Kacrackle Slash,Hatchet Man,Whack
+62,Sizzle,Kaboom,Bounce,Thwack
+63,Sizz,Zoom,Heal,Bang
+64,Flame Slash,Kaclang,Psyche Up,Hatchet Man
+65,sizzle,Oomph,Bang,Thwack
+66,Bounce,Kaboom,Heal,metal slash
+67,acceleratle,Thwack,Hatchet Man,Hocus Pocus
+68,Sizz,Bang,Snooze,Oomph
+69,Zoom,Acceleratle,Flame Slash,Kaboom
+70,Bang,Oomph,metal slash,Snooze
+71,Hatchet Man,Bounce,Sizz,Psyche Up
+72,Sizzle,Whack,Flame Slash,Bang
+73,kaclang,Thwack,Psyche Up,metal slash
+74,acceleratle,Sizzle,Kacrackle Slash,Flame Slash
+75,kamikazee,Hocus Pocus,Psyche Up,Snooze
+76,Oomph,zoom,Hatchet Man,Sizz
+77,Snooze,Acceleratle,Thwack,Kacrackle Slash
+78,Hatchet Man,Psyche Up,Oomph,Whack
+79,Bounce,Snooze,Heal,Kacrackle Slash
+80,Psyche Up,Oomph,Sizzle,acceleratle
+81,Hatchet Man,Snooze,Zoom,Kacrackle Slash
+82,sizzle,Flame slash,Heal,Kaclang
+83,Bounce,Kamikazee,Acceleratle,Snooze
+84,Hatchet Man,Oomph,Sizzle,Zoom
+85,Snooze,Kacrackle Slash,Acceleratle,Heal
+86,Sizzle,Zoom,Thwack,Kaboom
+87,Acceleratle,Bang,Hatchet Man,Psyche Up
+88,Sizz,Flame Slash,Snooze,Magic Burst
+89,Zoom,Kacrackle Slash,Sizzle,Kaboom
+90,Psyche Up,Acceleratle,Flame Slash,Bounce
+91,Bang,Sizzle,Snooze,Thwack
+92,Zoom,Psyche Up,Flame Slash,Hatchet Man
+93,Kaboom,Snooze,Kacrackle Slash,Magic Burst
+94,Psyche Up,Sizzle,Acceleratle,Bounce
+95,Sizz,Zoom,Hatchet Man,Heal
+96,Psyche Up,Sizzle,Magic Burst,Flame Slash
+97,Bounce,Kaboom,Acceleratle,Sizz
+98,Sizzle,Kacrackle Slash,kamikazee,Flame Slash
+99,Metal Slash,Oomph,Hatchet Man,Kaclang
+100,Bounce,Heal,acceleratle,Sizzle
+101,Kaboom,Kaclang,Snooze,Metal SLash
+102,Hatchet Man,Sizzle,Psyche Up,Bounce
+103,Kaboom,Kacrackle Slash,Acceleratle,Flame Slash
+104,Bang,Zoom,Bounce,Oomph
+105,Metal Slash,Acceleratle,Sizz,Thwack
+106,Whack,Snooze,Flame Slash,Bounce
+107,Hatchet Man,Thwack,Sizzle,metal slash
+108,Hocus Pocus,Zoom,Kacrackle Slash,Flame Slash
+109,kamikazee,Acceleratle,Oomph,metal slash
+110,Psyche Up,kacrackle slash,Zoom,Sizz
+111,Oomph,Hocus Pocus,Acceleratle,Snooze
+112,Kaboom,Flame Slash,Psyche Up,Bounce
+113,Thwack,Bang,Zoom,Sizzle
+114,Bounce,Flame Slash,Snooze,Hatchet Man
+115,acceleratle,Whack,Kaboom,Sizz
+116,Bang,Psyche Up,Sizzle,Flame Slash
+117,Kaboom,Hatchet Man,Sizz,Kaclang
+118,Zoom,Kacrackle Slash,Acceleratle,Heal
+119,Thwack,Snooze,Flame Slash,Sizzle
+120,whack,Zoom,kacrackle slash,Bang
+121,Heal,Acceleratle,Flame Slash,Sizzle
+122,Sizz,Bounce,Zoom,Magic Burst
+123,Kamikazee,Kacrackle Slash,Psyche Up,Thwack
+124,magic burst,Kaboom,acceleratle,Flame Slash
+125,Kacrackle Slash,Sizz,Metal SLash,Oomph
+126,acceleratle,Hatchet Man,Sizzle,Kaboom
+127,Metal Slash,Bounce,Whack,Sizz
+128,Bang,Zoom,Oomph,kamikazee
+129,Sizzle,Kacrackle Slash,Magic Burst,Snooze
+130,Flame Slash,Bang,Heal,Oomph
+131,Thwack,Hatchet Man,Bounce,Kaboom
+132,acceleratle,Whack,Bang,Zoom
+133,Flame Slash,Kamikazee,Oomph,Kaclang
+134,Sizzle,Bounce,Kacrackle Slash,Thwack
+135,Kaboom,Psyche Up,Heal,Oomph
+136,Kacrackle Slash,Whack,Snooze,Kaclang
+137,Psyche Up,Flame Slash,Hatchet Man,Kaboom
+138,Sizzle,Bang,Snooze,kamikazee
+139,Flame Slash,Zoom,Heal,Sizz
+140,Psyche Up,Magic Burst,Snooze,Kaclang
+141,Oomph,Bounce,Kaboom,Kacrackle Slash
+142,Hatchet Man,Acceleratle,Sizzle,Whack
+143,Bang,Thwack,metal slash,Kamikazee
+144,Kaboom,Oomph,kacrackle slash,Hatchet Man
+145,Sizzle,Bounce,Heal,Snooze
+146,Bang,Oomph,kaclang,Flame Slash
+147,acceleratle,Kacrackle Slash,Zoom,Bounce
+148,Sizz,Oomph,Kaboom,Hatchet Man
+149,Heal,Psyche Up,Kacrackle Slash,Zoom
+150,Kaclang,Snooze,Hatchet Man,metal slash
+151,Psyche Up,Zoom,Oomph,Acceleratle
+152,Metal Slash,Thwack,Flame Slash,Sizzle
+153,Kaboom,Kacrackle Slash,Whack,Heal
+154,Hatchet Man,Sizzle,Psyche Up,Bounce
+155,Bang,Kacrackle Slash,Acceleratle,Thwack
+156,Zoom,Kaboom,Flame Slash,Heal
+157,kamikazee,Thwack,Sizz,Psyche Up
+158,Hatchet Man,Bang,Flame slash,Acceleratle
+159,Oomph,Snooze,Psyche Up,Sizzle
+160,Hatchet Man,Sizz,Acceleratle,Whack
+161,Bounce,Zoom,Sizzle,Thwack
+162,Kacrackle Slash,Heal,Oomph,Sizz
+163,Bounce,Snooze,kaclang,Sizzle
+164,Sizz,Acceleratle,Oomph,Flame slash
+165,Kacrackle Slash,Thwack,Kaboom,Heal
+166,Zoom,Acceleratle,Bounce,Metal Slash
+167,Oomph,Thwack,Sizz,Kaboom
+168,Bang,Hatchet Man,Flame Slash,Sizzle
+169,Thwack,Zoom,kaclang,Kacrackle Slash
+170,Whack,Oomph,Hatchet Man,Kaboom
+171,Flame Slash,Psyche Up,Zoom,Thwack
+172,Snooze,Acceleratle,Kacrackle Slash,metal slash
+173,Hatchet Man,Bounce,Sizzle,Oomph
+174,acceleratle,Psyche Up,Zoom,Sizz
+175,Flame Slash,Sizzle,Bang,Kacrackle Slash
+176,Zoom,Psyche Up,Kaboom,Oomph
+177,Flame Slash,Kamikazee,Thwack,Sizzle
+178,Bang,Snooze,Hatchet Man,Acceleratle
+179,Sizzle,Whack,Psyche Up,Zoom
+180,Bounce,Kacrackle Slash,Hatchet Man,Oomph
+181,Sizz,Zoom,Kaclang,Heal
+182,Kaboom,Oomph,Bounce,Hatchet Man
+183,Flame Slash,Sizzle,Zoom,Kacrackle Slash
+184,kamikazee,Hatchet Man,Acceleratle,Bounce
+185,Oomph,Zoom,Kaboom,Heal
+186,Sizzle,kacrackle slash,Psyche Up,Flame slash
+187,Oomph,Acceleratle,sizz,Bang
+188,Whack,Kaboom,Hatchet Man,Kacrackle Slash
+189,Snooze,Flame Slash,Thwack,Bang
+190,Hatchet Man,Metal SLash,Acceleratle,Sizzle
+191,Psyche Up,Kacrackle Slash,Bang,Bounce
+192,Kaboom,Hatchet Man,Acceleratle,Thwack
+193,Oomph,Heal,Snooze,Kacrackle Slash
+194,Flame Slash,Thwack,Psyche Up,Hatchet Man
+195,Oomph,Kacrackle Slash,Sizzle,Acceleratle
+196,Psyche Up,Bang,Bounce,Snooze
+197,Zoom,Kacrackle Slash,Acceleratle,Kaboom
+198,Sizz,Kaclang,Oomph,Psyche Up
+199,kamikazee,Zoom,Sizzle,Bounce
+200,Kacrackle Slash,Hatchet Man,metal slash,Kaboom
+201,Bounce,Magic Burst,Flame Slash,Sizz
+202,Snooze,Kacrackle Slash,Kaclang,Kaboom
+203,Kamikazee,Thwack,Zoom,Hatchet Man
+204,Bounce,Oomph,Kaclang,Flame Slash
+205,Zoom,Hatchet Man,Metal SLash,Sizzle
+206,Snooze,Kaboom,Oomph,Flame Slash
+207,Kaclang,Bang,Psyche Up,Hatchet Man
+208,Sizzle,Acceleratle,Bounce,Magic Burst
+209,Thwack,Sizz,Flame Slash,Kacrackle Slash
+210,Bang,Bounce,Whack,Sizzle
+211,Heal,Hatchet Man,Kacrackle Slash,Magic Burst
+212,Bounce,Thwack,Kaboom,Sizzle
+213,Flame Slash,Kamikazee,Sizz,metal slash
+214,Snooze,Kaboom,Zoom,Kacrackle Slash
+215,Bang,Whack,Hatchet Man,Magic Burst
+216,Metal Slash,Flame Slash,Snooze,Sizz
+217,Kaboom,Thwack,Heal,Oomph
+218,Psyche Up,Sizzle,Acceleratle,Bang
+219,kacrackle slash,Thwack,Kaclang,Zoom
+220,Psyche Up,Hatchet Man,metal slash,Flame Slash
+221,Sizzle,Thwack,Snooze,Kacrackle Slash
+222,Kaclang,Hatchet Man,Sizz,Whack
+223,Psyche Up,Snooze,Kacrackle Slash,zoom
+224,acceleratle,Sizz,Thwack,Kaboom
+225,Snooze,Oomph,Heal,Hatchet Man
+226,Kaboom,Bounce,Acceleratle,Sizzle
+227,Bang,Whack,Sizz,Zoom
+228,Psyche Up,Flame Slash,Thwack,Snooze
+229,Sizzle,Zoom,Kacrackle Slash,Whack
+230,acceleratle,Hatchet Man,Oomph,Magic Burst
+231,Zoom,Heal,Psyche Up,Flame slash
+232,Oomph,Hatchet Man,Snooze,Hocus Pocus
+233,Sizzle,Heal,Bang,Acceleratle
+234,magic burst,Snooze,Psyche Up,Oomph
+235,acceleratle,Kaboom,Kacrackle Slash,Hatchet Man
+236,Kaclang,Sizz,Thwack,Snooze
+237,magic burst,Flame Slash,Bounce,Sizzle
+238,Snooze,Psyche Up,Bang,Kacrackle Slash
+239,Sizz,Oomph,Flame Slash,Hatchet Man
+240,Kacrackle Slash,Kamikazee,Thwack,Heal
+241,Flame Slash,metal slash,Snooze,Magic Burst
+242,Zoom,Whack,Kacrackle Slash,acceleratle
+243,Bang,Heal,Flame Slash,Hatchet Man
+244,Sizz,Kaboom,Acceleratle,Kacrackle Slash
+245,Psyche Up,Whack,Heal,Bounce
+246,magic burst,Kacrackle Slash,Hatchet Man,Sizz
+247,acceleratle,Psyche Up,Sizzle,Heal
+248,Bounce,Thwack,Metal SLash,Sizz
+249,Zoom,Kacrackle Slash,Kaboom,Oomph
+250,Hatchet Man,Kamikazee,Bounce,Thwack
+251,Oomph,Kacrackle Slash,Kaboom,Sizzle
+252,Hatchet Man,Bounce,Flame Slash,Thwack
+253,Sizzle,Zoom,Acceleratle,Snooze
+254,Hatchet Man,Heal,Flame Slash,Magic Burst
+255,Sizz,Psyche Up,Snooze,Hocus Pocus
+256,Kaboom,Kacrackle Slash,Acceleratle,Thwack
+257,Psyche Up,Heal,Snooze,Hatchet Man
+258,Bounce,Sizz,Kamikazee,Oomph
+259,Kacrackle Slash,Acceleratle,kaclang,Hocus Pocus
+260,Thwack,Zoom,Bounce,Heal
+261,Psyche Up,Hatchet Man,Magic Burst,Oomph
+262,Kaboom,Acceleratle,Sizz,zoom
+263,Kacrackle Slash,Snooze,Thwack,Flame Slash
+264,acceleratle,Bang,Zoom,Sizzle
+265,Kacrackle Slash,metal slash,Sizz,Psyche Up
+266,Sizzle,Kaboom,Bounce,Whack
+267,Flame Slash,kacrackle slash,Sizz,Heal
+268,Whack,Bounce,Acceleratle,Kaclang
+269,Sizz,Flame Slash,Kamikazee,metal slash
+270,Thwack,Kacrackle Slash,Bounce,Hatchet Man
+271,Oomph,Bang,Sizz,Psyche Up
+272,Kaboom,Thwack,Zoom,Kacrackle Slash
+273,Psyche Up,Hocus Pocus,Sizzle,Flame Slash
+274,Kaboom,Whack,Oomph,Zoom
+275,Bang,Psyche Up,Bounce,Hatchet Man
+276,kamikazee,Zoom,Sizzle,Oomph
+277,Hatchet Man,Acceleratle,Kaboom,Magic Burst
+278,Oomph,Sizz,Flame Slash,Bang
+279,Sizzle,Kaboom,Acceleratle,Hatchet Man
+280,Kamikazee,Sizz,Zoom,Magic Burst
+281,Bounce,Psyche Up,Heal,Sizzle
+282,Kaboom,Flame Slash,Whack,Acceleratle
+283,Psyche Up,Thwack,Sizzle,Bounce
+284,Sizz,Kaboom,metal slash,Zoom
+285,Flame slash,Snooze,Acceleratle,Hatchet Man
+286,kacrackle slash,Hatchet Man,Whack,metal slash
+287,sizzle,Oomph,Zoom,Acceleratle
+288,Bang,Kacrackle Slash,Flame Slash,Sizz
+289,Snooze,Kamikazee,Oomph,Psyche Up
+290,Sizzle,Kacrackle Slash,Bounce,Kaboom
+291,Hocus Pocus,Magic Burst,Acceleratle,Whack
+292,Kaboom,Heal,Hatchet Man,Sizz
+293,Hocus Pocus,Flame Slash,Zoom,Psyche Up
+294,Kacrackle Slash,Acceleratle,Sizz,Snooze
+295,Bang,Bounce,Oomph,Hatchet Man
+296,acceleratle,Flame Slash,Psyche Up,Kaboom
+297,Bang,Thwack,Snooze,Sizz
+298,Psyche Up,Heal,Hatchet Man,Oomph
+299,Flame Slash,Bounce,Sizzle,Thwack
